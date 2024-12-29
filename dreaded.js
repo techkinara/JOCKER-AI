@@ -1119,8 +1119,8 @@ await m.reply('𝐑𝐞𝐦𝐨𝐯𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮
 
  case 'sc': case 'script': case 'repo':
 
- client.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/8b12332b03df8082ab7a5.jpg` }, caption: 
-`👋🏻 Hi *${pushname}*,You can deploy 𝐉𝐨𝐤𝐞𝐫-𝐀𝐈 using the GitHub link below🌌\n\nFork and give us a star✨.\n\n https://github.com/techkinara/JOKER-AI\n\nEnjoy and have fun with the bot🔥...\n\nUse the link below to pair 𝐉𝐨𝐤𝐞𝐫-𝐀𝐢 without scanning any qr code\n\n [https://replit.com/@pesguru02/Pairing-Classic-Ai]\n\nMade on Earth by 𝐊𝐢𝐧𝐚𝐫𝐚 𝐌𝐚𝐫𝐤` });
+ client.sendMessage(m.chat, { image: { url: `https://files.catbox.moe/kttzw6.jpg` }, caption: 
+`👋🏻 Hi *${pushname}*,You can deploy 𝐉𝐨𝐤𝐞𝐫-𝐀𝐈 using the GitHub link below🌌\n\nFork and give us a star✨.\n\n https://github.com/techkinara/JOKER-AI\n\nEnjoy and have fun with the bot🔥...\n\nUse the link below to pair 𝐉𝐨𝐤𝐞𝐫-𝐀𝐢 without scanning any qr code\n\n [https://replit.com/@techkinara/PAIRING-JOKER-AI?s=app]\n\nMade on Earth by 𝐊𝐢𝐧𝐚𝐫𝐚 𝐌𝐚𝐫𝐤` });
 
    break;
                                                   
@@ -1771,7 +1771,7 @@ const audiovn = "./joker.mp3";
           externalAdReply: {
           title: "𝐇𝐢 𝐇𝐮𝐦𝐚𝐧,𝐉𝐨𝐤𝐞𝐫 𝐁𝐨𝐭 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 𝐚𝐧𝐝 𝐊𝐢𝐜𝐤𝐢𝐧𝐠",
           body: "https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk",
-          thumbnailUrl: "https://telegra.ph/file/91c6c1302ca0c8422438e.jpg",
+          thumbnailUrl: "https://files.catbox.moe/n7j8mn.jpg",
           sourceUrl: "https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk",
           mediaType: 1,
           renderLargerThumbnail: true
