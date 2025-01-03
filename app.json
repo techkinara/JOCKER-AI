@@ -1,6 +1,6 @@
 {
-  "name": "Joker-ai",
-  "description": "☯☯𝐣𝐨𝐤𝐞𝐫☯☯",
+  "name": "Jocker-ai",
+  "description": "☯☯𝐣𝐨c𝐤𝐞𝐫☯☯",
   "keywords": [
     "bot",
     "whatsapp",
@@ -14,9 +14,9 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/techkinara/JOKER-AI#readme",
-  "repository": "https://github.com/techkinara/JOKER-AI.git",
-  "logo": "https://files.catbox.moe/orjlqy.jpg",
+  "website": "https://github.com/techkinara/JOCKER-AI#readme",
+  "repository": "https://github.com/techkinara/JOCKER-AI.git",
+  "logo": "https://files.catbox.moe/zk8mcz.jpg",
   "success_url": "/",
   "env": {
     "PREFIX": {
