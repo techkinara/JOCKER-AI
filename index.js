@@ -1,7 +1,7 @@
 const sessionName = "dreaded1";
 const antiforeign = process.env.ANTIFOREIGN || 'FALSE';
 const autobio = process.env.AUTOBIO || 'TRUE';
-let botname = process.env.BOTNAME || '𝐉𝐎𝐊𝐄𝐑-𝐀𝐈';
+let botname = process.env.BOTNAME || '𝐉𝐎C𝐊𝐄𝐑-𝐀𝐈';
 
 const owner = process.env.DEV || '254113634286'; // This will send a notification once the bot reconnects
 const {
@@ -734,7 +734,7 @@ function _0x4dc1() {
       console.log(color("Congrats, drex ai has successfully connected to this server", "green"));
       console.log(color("Follow me on Instagram as @drex_mose", "red"));
       console.log(color("Text the bot number with !menu to check my command list"));
-      client.sendMessage(owner + "@s.whatsapp.net", { text: `𝐉𝐎𝐊𝐄𝐑 𝐀𝐈 𝐡𝐚𝐬 𝐬𝐭𝐚𝐫𝐭𝐞𝐝. . .\n\n𝐁𝐎𝐓 𝐑𝐔𝐍𝐍𝐈𝐍𝐆\n\nHave fun with the bot😁𝑴𝒂𝒅𝒆 𝒃𝒚 𝐊𝐢𝐧𝐚𝐫𝐚 𝐌𝐚𝐫𝐤` });
+      client.sendMessage(owner + "@s.whatsapp.net", { text: `𝐉𝐎C𝐊𝐄𝐑 𝐀𝐈 𝐡𝐚𝐬 𝐬𝐭𝐚𝐫𝐭𝐞𝐝. . .\n\n𝐁𝐎𝐓 𝐑𝐔𝐍𝐍𝐈𝐍𝐆\n\nHave fun with the bot😁𝑴𝒂𝒅𝒆 𝒃𝒚 𝐊𝐢𝐧𝐚𝐫𝐚 𝐌𝐚𝐫𝐤` });
     }
     // console.log('Connected...', update)
   });
