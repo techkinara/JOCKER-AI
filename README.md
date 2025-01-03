@@ -4,7 +4,7 @@
   </p>
   
 <p align="center">
-<img src="https://files.catbox.moe/mx5p5p.jpg" width="650" height="500"/>
+<img src="https://files.catbox.moe/l2wm3n.jpg" width="650" height="500"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=JOCKER+WHATSAPP+BOT" alt="">
