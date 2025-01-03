@@ -102,7 +102,7 @@ const groupName = m.isGroup && groupMetadata ? await groupMetadata.subject : "";
 const admin = process.env.ADMIN_MSG || '𝐇𝐮𝐡!\n𝐀𝐝𝐦𝐢𝐦𝐬 𝐨𝐧𝐥𝐲, 𝐃𝐮𝐦𝐦𝐲.';
     const group = process.env.GROUP_ONLY_MSG || '𝐆𝐫𝐨𝐮𝐩 𝐜𝐨𝐦𝐦𝐚𝐧𝐝 𝐍𝐢𝐠𝐠𝐚.';
     const botAdmin = process.env.BOT_ADMIN_MSG || '𝐈𝐦 𝐧𝐨𝐭 𝐚𝐧 𝐚𝐝𝐦𝐢𝐧 𝐌𝐅'
-    const NotOwner = process.env.NOT_OWNER_MSG || '𝐉𝐨𝐤𝐞𝐫 𝐨𝐧𝐥𝐲 ☬';
+    const NotOwner = process.env.NOT_OWNER_MSG || '𝐉𝐨c𝐤𝐞𝐫 𝐨𝐧𝐥𝐲 ☬';
 const wapresence = process.env.WA_PRESENCE || 'recording';
 const antilink = process.env.ANTILINK || 'TRUE';
 const antilinkall = process.env.ANTILINK_ALL || 'TRUE';
@@ -192,7 +192,7 @@ function _0x11cc() {
         '184473FwtnYZ',
         '18szWhmE',
         'startsWith',
-        '𝐉𝐎𝐊𝐄𝐑-𝐀𝐈\x20an',
+        '𝐉𝐎C𝐊𝐄𝐑-𝐀𝐈\x20an',
         '376590puyzhN',
         'key'
     ];
@@ -255,9 +255,9 @@ var lod = [
 "《 ███████▒▒▒▒▒》50%",
 "《 ██████████▒▒》80%",
 "《 ████████████》100%",
-"	✦𝐋𝐨𝐚𝐝𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐛𝐲 𝐉𝐎𝐊𝐄𝐑-𝐀𝐈!🐸 ☫"
+"	✦𝐋𝐨𝐚𝐝𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐛𝐲 𝐉𝐎C𝐊𝐄𝐑-𝐀𝐈!🦜 ☫"
 ]
-let { key } = await client.sendMessage(from, {text: '𝐋𝐨𝐚𝐝𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐛𝐲 𝐉𝐨𝐤𝐞𝐫! ☬...'})
+let { key } = await client.sendMessage(from, {text: '𝐋𝐨𝐚𝐝𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐛𝐲 𝐉𝐨c𝐤𝐞𝐫! ☬...'})
 
 for (let i = 0; i < lod.length; i++) {
 await client.sendMessage(from, {text: lod[i], edit: key });
@@ -384,7 +384,7 @@ case "help":
 		      await loading ()
 
 let cap = `┏━━━━━━━━━━━━━━━━━━┓
-┃     ▇ ◆  𝐉𝐎𝐊𝐄𝐑-𝐀𝐈  ◆ █
+┃     ▇ ◆  𝐉𝐎C𝐊𝐄𝐑-𝐀𝐈  ◆ █
 ┃☙┏━━━━━━━━━━━━━━━┛
 ┃☙┃ 𝗢𝘄𝗻𝗲𝗿 : 𝐊𝐢𝐧𝐚𝐫𝐚 𝐌𝐚𝐫𝐤
 ┃☙┃ 𝗨𝘀𝗲𝗿 : ${m.pushName}︎︎
@@ -398,7 +398,7 @@ let cap = `┏━━━━━━━━━━━━━━━━━━┓
 ┃☙┃ ▎▍▌▌▉▏▎▌▉▐▏▌
 ┃☙┃┃▎▍▌▌▉▏▎▌▉▐▏▌
 ┃☙┃ 
-┃☙┃ ♝ 𝐉𝐎𝐊𝐄𝐑-𝐀𝐈 ♗
+┃☙┃ ♝ 𝐉𝐎C𝐊𝐄𝐑-𝐀𝐈 ♗
 ┃☙┗━━━━━━━━━━━━━━᪥
 ┗━━━━━━━━━━━━━━━━━᪥
 
@@ -524,7 +524,7 @@ let cap = `┏━━━━━━━━━━━━━━━━━━┓
 if (menu === 'VIDEO') {
 
                    client.sendMessage(m.chat, {
-                        video: fs.readFileSync('./Joker.mp4'),
+                        video: fs.readFileSync('./Jocker.mp4'),
                         caption: cap,
 			sourceUrl: "https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk",   
                         gifPlayback: true
@@ -542,7 +542,7 @@ client.sendMessage(m.chat, {
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: true,
-                                title: `𝐉𝐎𝐊𝐄𝐑-𝐀𝐈`,
+                                title: `𝐉𝐎C𝐊𝐄𝐑-𝐀𝐈`,
                                 body: `${runtime(process.uptime())}`,
                                 thumbnail: fs.readFileSync('./𝐊𝐢𝐧𝐚𝐫𝐚_𝐌𝐚𝐫𝐤_𝐀𝐈.jpg'),
                                 sourceUrl: 'https://wa.me/254113634286?text=ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏+Nihostie+Bot+Mkuu+🥲',
@@ -649,7 +649,7 @@ const rel = await quote(xf, pushname, pppuser)
                 
                 client.sendImageAsSticker(m.chat, rel.result, m, {
                     packname: pushname,
-                    author: `𝑪⃪𝒍⃪𝒂⃪𝒔⃪𝒔⃪𝒊⃪𝒄⃪`
+                    author: `Jocker`
                 })
 
 } catch (errr) { 
@@ -1106,7 +1106,7 @@ try {
  if (users  == client.decodeJid(client.user.id)) throw 'Bot cannot remove itself 😡';
  if (users == Owner) { m.reply('Its owner number')}; 
                  await client.groupParticipantsUpdate(m.chat, users, 'remove'); 
-await m.reply('𝐑𝐞𝐦𝐨𝐯𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲 𝐛𝐲 𝐉𝐨𝐤𝐞𝐫☬'); 
+await m.reply('𝐑𝐞𝐦𝐨𝐯𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲 𝐛𝐲 𝐉𝐨c𝐤𝐞𝐫☬'); 
 } catch (errr) { 
  await reply("𝐇𝐮𝐡!\n 𝐈 𝐚𝐦 𝐧𝐨𝐭 𝐚𝐧 𝐚𝐝𝐦𝐢𝐧 𝐡𝐞𝐫𝐞\n 𝐖𝐡𝐲'𝐫𝐞 𝐲𝐨𝐮 𝐭𝐡𝐢𝐧𝐤𝐢𝐧𝐠 𝐨𝐛𝐭𝐮𝐬𝐞𝐥𝐲?☬")}
 
@@ -1119,8 +1119,8 @@ await m.reply('𝐑𝐞𝐦𝐨𝐯𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮
 
  case 'sc': case 'script': case 'repo':
 
- client.sendMessage(m.chat, { image: { url: `https://files.catbox.moe/kttzw6.jpg` }, caption: 
-`👋🏻 Hi *${pushname}*,You can deploy 𝐉𝐨𝐤𝐞𝐫-𝐀𝐈 using the GitHub link below🌌\n\nFork and give us a star✨.\n\n https://github.com/techkinara/JOKER-AI\n\nEnjoy and have fun with the bot🔥...\n\nUse the link below to pair 𝐉𝐨𝐤𝐞𝐫-𝐀𝐢 without scanning any qr code\n\n [https://replit.com/@techkinara/PAIRING-JOKER-AI?s=app]\n\nMade on Earth by 𝐊𝐢𝐧𝐚𝐫𝐚 𝐌𝐚𝐫𝐤` });
+ client.sendMessage(m.chat, { image: { url: `https://files.catbox.moe/88rapk.jpg` }, caption: 
+`👋🏻 Hi *${pushname}*,You can deploy 𝐉𝐨c𝐤𝐞𝐫-𝐀𝐈 using the GitHub link below🌌\n\nFork and give us a star✨.\n\n https://github.com/techkinara/JOCKER-AI\n\nEnjoy and have fun with the bot🔥...\n\nUse the link below to pair 𝐉𝐨c𝐤𝐞𝐫-𝐀𝐢 without scanning any qr code\n\n [https://replit.com/@techkinara/PAIRING-JOCKER-AI?s=app]\n\nMade on Earth by 𝐊𝐢𝐧𝐚𝐫𝐚 𝐌𝐚𝐫𝐤` });
 
    break;
                                                   
@@ -1282,7 +1282,7 @@ await m.reply('𝐑𝐞𝐦𝐨𝐯𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮
                  if (!m.isGroup) throw group; 
                  if (!isBotAdmin) throw botAdmin; 
                  if (!isAdmin) throw admin; 
- let teks = `✧𝐉𝐎𝐊𝐄𝐑-𝐀𝐈✧\n☫𝐆𝐑𝐎𝐔𝐏 𝐓𝐀𝐆☫: 
+ let teks = `✧𝐉𝐎C𝐊𝐄𝐑-𝐀𝐈✧\n☫𝐆𝐑𝐎𝐔𝐏 𝐓𝐀𝐆☫: 
    
   Message ${q ? q : ''}*\n\n`; 
                  for (let mem of participants) { 
@@ -1331,7 +1331,7 @@ function _0x14eb(){const _0x17ec6c=['Audio\x20downloading\x20->','mediaType','st
  pp2 = 'https://tinyurl.com/yx93l6da'; 
  } 
   if (!m.quoted) throw `Tag a user!`; 
- bar = `𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐩𝐢𝐜𝐭𝐮𝐫𝐞 𝐨𝐟 ${qd} 𝐠𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐉𝐨𝐤𝐞𝐫-𝐀𝐢`; 
+ bar = `𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐩𝐢𝐜𝐭𝐮𝐫𝐞 𝐨𝐟 ${qd} 𝐠𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐉𝐨c𝐤𝐞𝐫-𝐀𝐢`; 
  client.sendMessage(m.chat, { image: { url: pp2}, caption: bar, fileLength: "999999999999"}, { quoted: m}); 
  } 
  break;
@@ -1727,7 +1727,7 @@ break;
                 client.sendMessage(
                     from, {
                         video: fs.readFileSync(`./${randomName}`),
-                        caption: `𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐉𝐨𝐤𝐞𝐫-𝐀𝐢`,
+                        caption: `𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐉𝐨c𝐤𝐞𝐫-𝐀𝐢`,
                     }, {
                         quoted: m
                     }
@@ -1750,13 +1750,13 @@ case "ping": case "speed": {
  break; 
   
  case "runtime": { 
-                 m.reply (`𝐉𝐎𝐊𝐄𝐑 𝐀𝐈 𝙷𝚊𝚜 𝙱𝚎𝚎𝚗 𝙰𝚌𝚝𝚒𝚟𝚎 𝙵𝚘𝚛 ${runtime(process.uptime())}`) 
+                 m.reply (`𝐉𝐎C𝐊𝐄𝐑 𝐀𝐈 𝙷𝚊𝚜 𝙱𝚎𝚎𝚗 𝙰𝚌𝚝𝚒𝚟𝚎 𝙵𝚘𝚛 ${runtime(process.uptime())}`) 
  } 
  break;
 
 case "alive":
 
-const audiovn = "./kinara.mp3";
+const audiovn = "./joker.mp3";
     const dooc = {
         audio: {
           url: audiovn
@@ -1769,9 +1769,9 @@ const audiovn = "./kinara.mp3";
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
-          title: "𝐇𝐢 𝐇𝐮𝐦𝐚𝐧,𝐉𝐨𝐤𝐞𝐫 𝐁𝐨𝐭 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 𝐚𝐧𝐝 𝐊𝐢𝐜𝐤𝐢𝐧𝐠",
+          title: "𝐇𝐢 𝐇𝐮𝐦𝐚𝐧,𝐉𝐨c𝐤𝐞𝐫 𝐁𝐨𝐭 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 𝐚𝐧𝐝 𝐊𝐢𝐜𝐤𝐢𝐧𝐠",
           body: "https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk",
-          thumbnailUrl: "https://files.catbox.moe/n7j8mn.jpg",
+          thumbnailUrl: "https://files.catbox.moe/0xq2uf.jpg",
           sourceUrl: "https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk",
           mediaType: 1,
           renderLargerThumbnail: true
@@ -1871,7 +1871,7 @@ case "movie":
  break;
  
       case "mark": case "owner": case "mark": 
- client.sendMessage(m.chat, { image: { url: 'https://files.catbox.moe/h5x8rr.jpg' }, caption: `𝐇𝐞𝐫𝐞 𝐢𝐬 𝐦𝐲 𝐚𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬 𝐜𝐫𝐞𝐚𝐭𝐨𝐫, +254113634286🦈𝒄𝒐𝒏𝒕𝒂𝒄𝒕 𝒉𝒊𝒎 𝒇𝒐𝒓 𝒂𝒏𝒚 𝒊𝒏𝒒𝒖𝒊𝒓𝒊𝒆𝒔😌 ☤☬` }, {quoted: m}); 
+ client.sendMessage(m.chat, { image: { url: 'https://files.catbox.moe/l5mu13.jpg' }, caption: `𝐇𝐞𝐫𝐞 𝐢𝐬 𝐦𝐲 𝐚𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬 𝐜𝐫𝐞𝐚𝐭𝐨𝐫, +254113634286🦈𝒄𝒐𝒏𝒕𝒂𝒄𝒕 𝒉𝒊𝒎 𝒇𝒐𝒓 𝒂𝒏𝒚 𝒊𝒏𝒒𝒖𝒊𝒓𝒊𝒆𝒔😌 ☤☬` }, {quoted: m}); 
   
  break;
        
