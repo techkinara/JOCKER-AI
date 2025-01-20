@@ -1119,7 +1119,7 @@ await m.reply('𝐑𝐞𝐦𝐨𝐯𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮
 
  case 'sc': case 'script': case 'repo':
 
- client.sendMessage(m.chat, { image: { url: `https://files.catbox.moe/88rapk.jpg` }, caption: 
+ client.sendMessage(m.chat, { image: { url: `https://files.catbox.moe/pf99li.jpg` }, caption: 
 `👋🏻 Hi *${pushname}*,You can deploy 𝐉𝐨c𝐤𝐞𝐫-𝐀𝐈 using the GitHub link below🌌\n\nFork and give us a star✨.\n\n https://github.com/techkinara/JOCKER-AI\n\nEnjoy and have fun with the bot🔥...\n\nUse the link below to pair 𝐉𝐨c𝐤𝐞𝐫-𝐀𝐢 without scanning any qr code\n\n [https://replit.com/@techkinara/PAIRING-JOCKER-AI?s=app]\n\nMade on Earth by 𝐊𝐢𝐧𝐚𝐫𝐚 𝐌𝐚𝐫𝐤` });
 
    break;
@@ -1871,7 +1871,7 @@ case "movie":
  break;
  
       case "mark": case "owner": case "mark": 
- client.sendMessage(m.chat, { image: { url: 'https://files.catbox.moe/l5mu13.jpg' }, caption: `𝐇𝐞𝐫𝐞 𝐢𝐬 𝐦𝐲 𝐚𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬 𝐜𝐫𝐞𝐚𝐭𝐨𝐫, +254113634286🦈𝒄𝒐𝒏𝒕𝒂𝒄𝒕 𝒉𝒊𝒎 𝒇𝒐𝒓 𝒂𝒏𝒚 𝒊𝒏𝒒𝒖𝒊𝒓𝒊𝒆𝒔😌 ☤☬` }, {quoted: m}); 
+ client.sendMessage(m.chat, { image: { url: 'https://files.catbox.moe/pf99li.jpg' }, caption: `𝐇𝐞𝐫𝐞 𝐢𝐬 𝐦𝐲 𝐚𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬 𝐜𝐫𝐞𝐚𝐭𝐨𝐫, +254113634286🦈𝒄𝒐𝒏𝒕𝒂𝒄𝒕 𝒉𝒊𝒎 𝒇𝒐𝒓 𝒂𝒏𝒚 𝒊𝒏𝒒𝒖𝒊𝒓𝒊𝒆𝒔😌 ☤☬` }, {quoted: m}); 
   
  break;
        
